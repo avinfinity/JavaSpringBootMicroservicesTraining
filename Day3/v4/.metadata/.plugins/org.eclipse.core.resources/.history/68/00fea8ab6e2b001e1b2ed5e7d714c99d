@@ -1,0 +1,7 @@
+
+server.port=9090
+spring.application.name=api-gateway
+
+# allows api gateway to discover microservices by using their names 
+# as registered with Eureka
+spring.cloud.gateway.discovery.locator.enabled=true

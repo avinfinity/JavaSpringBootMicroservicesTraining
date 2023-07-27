@@ -1,0 +1,5 @@
+package com.walmart.api.product.rest.controller;
+
+public class ProductRestController {
+
+}

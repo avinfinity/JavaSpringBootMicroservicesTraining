@@ -1,0 +1,5 @@
+package com.walmart.api.gateway.filter;
+
+public class LoggingFilter {
+
+}

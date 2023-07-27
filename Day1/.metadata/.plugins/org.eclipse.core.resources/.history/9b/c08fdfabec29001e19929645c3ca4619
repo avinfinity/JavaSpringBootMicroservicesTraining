@@ -1,0 +1,19 @@
+package com.walmart.api.coupouns.model;
+
+public class Coupoun {
+	private String name;
+	private int discount;
+	
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getDiscount() {
+		return discount;
+	}
+	public void setDiscount(int discount) {
+		this.discount = discount;
+	}
+}

@@ -1,0 +1,1 @@
+This demo is using only Core Java

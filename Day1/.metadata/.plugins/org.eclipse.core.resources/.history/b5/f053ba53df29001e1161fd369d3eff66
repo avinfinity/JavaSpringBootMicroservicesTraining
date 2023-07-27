@@ -1,0 +1,5 @@
+package com.walmart.api.coupouns.repository.Impl;
+
+public class CoupounRepositoryImpl {
+
+}

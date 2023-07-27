@@ -1,0 +1,21 @@
+package com.walmart.api.product.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.RequestBody;
+
+import com.walmart.api.product.feign.client.CoupounFeignClient;
+import com.walmart.api.product.model.Product;
+
+@Service
+public class ProductServiceImpl {
+
+	@Autowired
+	private CoupounFeignClient coupounRestClient;
+	
+	public Product createProduct(Product product) {
+		
+		
+	}
+	
+}

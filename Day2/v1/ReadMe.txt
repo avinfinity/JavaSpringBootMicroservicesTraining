@@ -1,0 +1,1 @@
+Thsi version uses OpenFeign library with hardcoded URLs
