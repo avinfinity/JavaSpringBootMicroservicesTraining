@@ -1,5 +1,0 @@
-package com.walmart.api.product.feign.client;
-
-public interface CoupounFeignClient {
-
-}

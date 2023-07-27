@@ -1,8 +1,0 @@
-package com.walmart.api.coupouns.model;
-
-public class Coupoun {
-	private String name;
-	private int discount;
-	
-	
-}

@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Training\Day1\.metadata\.plugins\org.eclipse.jdt.core
-1067169256.index
-2952479259.index
-1865797976.index
